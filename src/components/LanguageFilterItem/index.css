@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.tab-item-container {
+  list-style-type: none;
+}
+
+.tab-btn {
+  font-family: 'Roboto';
+  border-width: 0px;
+  font-weight: 200;
+  color: #1e293b;
+}
+
+.active-tab-btn {
+  border: 2px solid;
+  color: #0284c7;
+  border-color: #0284c7;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
